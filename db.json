@@ -1,0 +1,270 @@
+{
+  "transactions": [
+    {
+      "id": "7",
+      "date": "2019-12-07",
+      "description": "Birthday Check from Grandma",
+      "category": "Gift",
+      "amount": 50
+    },
+    {
+      "id": "8",
+      "date": "2019-12-09",
+      "description": "Lyft Ride",
+      "category": "Transportation",
+      "amount": -13.25
+    },
+    {
+      "id": "9",
+      "date": "2019-12-11",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
+    },
+    {
+      "id": "10",
+      "date": "2019-12-16",
+      "description": "Tickets, Flatiron Multiplex Cinemas",
+      "category": "Entertainment",
+      "amount": -24
+    },
+    {
+      "id": "11",
+      "date": "2019-12-16",
+      "description": "MTA Vending Machine: MetroCard",
+      "category": "Transportation",
+      "amount": -116.39
+    },
+    {
+      "id": "313f",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "8bf4",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "1287",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "dd21",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "3942",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "4000",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "6408",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "39fa",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "0a03",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "c90d",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "2df0",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "0854",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "1b15",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "add2",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "75f7",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "dc2b",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "ae28",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "2543",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "da01",
+      "date": "2024-08-03",
+      "description": "new money",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "7929",
+      "date": "2024-08-03",
+      "description": "",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "3220",
+      "date": "2024-08-03",
+      "description": "",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "da36",
+      "date": "2024-08-03",
+      "description": "",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "5e8a",
+      "date": "2024-08-03",
+      "description": "",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "d170",
+      "date": "2024-08-03",
+      "description": "",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "0b33",
+      "date": "2024-08-03",
+      "description": "",
+      "category": "",
+      "amount": "2000"
+    },
+    {
+      "id": "0fee",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": 0
+    },
+    {
+      "id": "daed",
+      "date": "2024-08-02",
+      "description": "new money",
+      "category": "",
+      "amount": "6789"
+    },
+    {
+      "id": "d96d",
+      "date": "2024-08-02",
+      "description": "new money",
+      "category": "",
+      "amount": "6789"
+    },
+    {
+      "id": "1475",
+      "date": "2024-08-02",
+      "description": "new money",
+      "category": "",
+      "amount": "6789"
+    },
+    {
+      "id": "2918",
+      "date": "2024-08-02",
+      "description": "new money",
+      "category": "",
+      "amount": "6789"
+    },
+    {
+      "id": "dd0e",
+      "date": "2024-08-02",
+      "description": "new money",
+      "category": "",
+      "amount": "6789"
+    },
+    {
+      "id": "3430",
+      "date": "2024-08-02",
+      "description": "new money",
+      "category": "",
+      "amount": "6789"
+    },
+    {
+      "id": "2b7d",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": 0
+    }
+  ]
+}
